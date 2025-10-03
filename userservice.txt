@@ -1,3 +1,3 @@
 This is userservice code for the users
 
-master user 
+master user is master
